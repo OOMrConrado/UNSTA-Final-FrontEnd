@@ -1,6 +1,7 @@
 # 📂 Tienda - React + JSON Server CRUD App
 
-This is a simple web project for managing products in a store. It was built using React and `json-server` to simulate a RESTful API. It's ideal for learning or testing basic CRUD operations with a visual interface.
+This is a simple web project developed for a university assignment. It demonstrates how to manage products in a store using a visual interface. The application is built with React and uses `json-server` to simulate a RESTful API, allowing real-time interaction through AJAX requests. It's designed for educational purposes, focusing on learning and practicing basic CRUD operations (Create, Read, Update, Delete).
+
 
 ## 🚀 Prerequisites
 
@@ -54,11 +55,3 @@ This command runs both the frontend and the backend in parallel using the `concu
 * `db.json`: The mock database used by `json-server`.
 * `src/`: The React application source code.
 * `package.json`: Contains all dependencies and scripts.
-
-## 📸 Preview
-
-Coming soon...
-
-## 👨‍💻 Author
-
-Developed by **Conrado Gómez**
